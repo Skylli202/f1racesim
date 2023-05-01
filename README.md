@@ -1,4 +1,4 @@
-# F1 Race sim 
+# F1 Race sim
 
 Share hot lap result with friend.
 
@@ -12,6 +12,7 @@ npm run dev
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
+
 ## Test
 
 Tests are important in a modern project. When struggling with tests, please refer to this awesome work from [davipon](https://github.com/davipon).
@@ -27,4 +28,3 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
-
